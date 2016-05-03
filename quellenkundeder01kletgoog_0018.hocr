@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quellenkundeder01kletgoog_0018.png"; bbox 0 0 2930 4808; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 537 1311 934 1594">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 537 1289 934 1594">
+     <span class='ocr_line' id='line_1_1' title="bbox 563 1311 886 1406; baseline -0.019 -53"><span class='ocrx_word' id='word_1_1' title='bbox 563 1311 628 1352; x_wconf 55' lang='lat'>‘31¹⁴</span> <span class='ocrx_word' id='word_1_2' title='bbox 672 1323 758 1406; x_wconf 48' lang='lat' dir='ltr'>amq·</span> <span class='ocrx_word' id='word_1_3' title='bbox 810 1329 886 1374; x_wconf 38' lang='lat' dir='ltr'>md</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 537 1339 934 1594; baseline -0.01 -158"><span class='ocrx_word' id='word_1_4' title='bbox 537 1393 596 1436; x_wconf 59' lang='lat' dir='ltr'>&#39;affl‘</span> <span class='ocrx_word' id='word_1_5' title='bbox 657 1415 661 1421; x_wconf 55' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 758 1407 767 1429; x_wconf 69' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_7' title='bbox 818 1411 823 1418; x_wconf 90' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 882 1339 934 1594; x_wconf 51' lang='lat' dir='ltr'>ff!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 146 1467 1243 1788">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 146 1467 1243 1788">
+     <span class='ocr_line' id='line_1_3' title="bbox 146 1467 1243 1788; baseline -0.007 -27"><span class='ocrx_word' id='word_1_9' title='bbox 146 1605 444 1788; x_wconf 59' lang='lat' dir='ltr'>(Samium</span> <span class='ocrx_word' id='word_1_10' title='bbox 486 1467 592 1755; x_wconf 38' lang='lat' dir='ltr'>nt&amp;</span> <span class='ocrx_word' id='word_1_11' title='bbox 627 1565 970 1784; x_wconf 46' lang='lat' dir='ltr'>&amp;ttamen</span> <span class='ocrx_word' id='word_1_12' title='bbox 1011 1605 1243 1785; x_wconf 48' lang='lat' dir='ltr'>&amp;muta</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 264 2037 1154 2142">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 264 2037 1154 2142">
+     <span class='ocr_line' id='line_1_4' title="bbox 264 2037 1154 2142; baseline 0.001 -20"><span class='ocrx_word' id='word_1_13' title='bbox 264 2041 349 2138; x_wconf 70' lang='lat' dir='ltr'>aad)</span> <span class='ocrx_word' id='word_1_14' title='bbox 376 2039 489 2140; x_wconf 60' lang='lat' dir='ltr'>{uma</span> <span class='ocrx_word' id='word_1_15' title='bbox 517 2039 654 2140; x_wconf 59' lang='lat' dir='ltr'>zabuli</span> <span class='ocrx_word' id='word_1_16' title='bbox 679 2042 752 2120; x_wconf 69' lang='lat' dir='ltr'>aab</span> <span class='ocrx_word' id='word_1_17' title='bbox 777 2037 907 2138; x_wconf 54' lang='grc' dir='ltr'>Μὴ</span> <span class='ocrx_word' id='word_1_18' title='bbox 935 2039 1154 2142; x_wconf 63' lang='lat' dir='ltr'>burgtsscut.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1470 4808">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1470 4808">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1470 4808; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1470 4808; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

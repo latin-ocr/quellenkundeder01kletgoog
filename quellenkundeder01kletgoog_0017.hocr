@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quellenkundeder01kletgoog_0017.png"; bbox 0 0 2930 4808; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 855 1336 1776">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 855 1336 1776">
+     <span class='ocr_line' id='line_1_1' title="bbox 508 855 1098 1361; baseline 0.002 -295"><span class='ocrx_word' id='word_1_1' title='bbox 508 895 601 1066; x_wconf 56' lang='lat' dir='ltr'>eh</span> <span class='ocrx_word' id='word_1_2' title='bbox 656 855 1098 1361; x_wconf 55' lang='grc' dir='ltr'>εἶὶῑῖῐῖῇῆε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 262 1577 1336 1776; baseline 0.018 -45"><span class='ocrx_word' id='word_1_3' title='bbox 262 1577 552 1764; x_wconf 65' lang='grc' dir='ltr'>(Βεῐώίώίε</span> <span class='ocrx_word' id='word_1_4' title='bbox 601 1595 697 1738; x_wconf 63' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 742 1588 1085 1776; x_wconf 53' lang='grc' dir='ltr'>Έτιιιρἱῐῠιειι</span> <span class='ocrx_word' id='word_1_6' title='bbox 1127 1601 1336 1751; x_wconf 66' lang='lat' dir='ltr'>&lt;5111th</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 639 2392 959 2484">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 639 2392 959 2484">
+     <span class='ocr_line' id='line_1_3' title="bbox 639 2392 959 2484; baseline 0.013 -4"><span class='ocrx_word' id='word_1_7' title='bbox 639 2392 759 2481; x_wconf 63' lang='lat' dir='ltr'>Rati</span> <span class='ocrx_word' id='word_1_8' title='bbox 786 2393 959 2484; x_wconf 61' lang='lat' dir='ltr'>filesta.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1470 4804">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1470 4804">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1470 4804; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1470 4804; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
